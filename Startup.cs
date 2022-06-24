@@ -11,6 +11,9 @@ using System.Threading.Tasks;
 
 namespace Pipeline
 {
+    /// <summary>
+    /// startup class
+    /// </summary>
     public class Startup
     {
         public Startup(IConfiguration configuration)
